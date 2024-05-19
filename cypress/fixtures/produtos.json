@@ -1,0 +1,15 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade":3
+    }
+
+]

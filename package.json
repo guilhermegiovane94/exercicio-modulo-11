@@ -2,5 +2,16 @@
   "dependencies": {
     "@faker-js/faker": "^8.3.1",
     "cypress": "^13.6.0"
-  }
+  },
+  "name": "exercicio-modulo-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
